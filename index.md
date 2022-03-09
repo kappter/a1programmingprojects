@@ -11,4 +11,4 @@ OOP solution for a collision based graphics space shooter game.
 
 [Source Code](https://github.com/kappter/a1programmingprojects/blob/gh-pages/src/SpaceGame.zip)
 
-## Java Projects
+## Language Projects
